@@ -35,6 +35,10 @@ Students and teachers often experience difficulty organizing seating arrangement
     7.1.6)Display the final seating arrangement
     7.1.7) End program
 
+# Input Needed
+1. Student Names and Seat Number
+2. Menu Choice
+
 # Example Output
 1.) Menu Options:
   1.1) Add student to seat
