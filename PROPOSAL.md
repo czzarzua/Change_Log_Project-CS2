@@ -1,10 +1,10 @@
-Project Title: Student Seating Arrangement System
+# Project Title: Student Seating Arrangement System
 
-Problem Statement: Explain why organizing seating manually is time consuming and confusing for students and teachers.
+# Problem Statement: Explain why organizing seating manually is time consuming and confusing for students and teachers.
 
-Project Objectives: State what the system aims to solve (e.g., allow users to easily assign, view, update, swap, and search student seat assignments).
+# Project Objectives: State what the system aims to solve (e.g., allow users to easily assign, view, update, swap, and search student seat assignments).
 
-Planned Features: 
+# Planned Features: 
   · Store student names in an array
   · Assign students to specific seat positions
   · Check if a seat is occupied
@@ -15,13 +15,13 @@ Planned Features:
   · Display full seating arrangements
   · Display status messages (e.g., "Seat occupied", "Error", confirmation messages)
 
-Planned Inputs:
+# Planned Inputs:
   · Menu Choices: Numbers entered by the user to select options (1–5) from the main menu.
   · Student Names: Text entries for student names to assign, swap, or search for.
   · Seat Numbers: Integer numbers (ranging from 1 to 30) chosen for seating assignments, edits, or removals.
   · Swap Inputs: Two seat numbers entered sequentially to exchange student positions.
 
-Planned Outputs:
+# Planned Outputs:
   · Main Menu Display: Interactive text interface showing available options.
   · Seating Layout Display: Complete list of seats (1–30) showing which are assigned or marked as "Empty".
   · Search Results: Confirmation messages showing whether a student was found and their seat number.
