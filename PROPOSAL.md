@@ -29,4 +29,7 @@
   · Search Results: Confirmation messages showing whether a student was found and their seat number.
   · Status & Error Messages: System feedback such as "Added [Name] in seat number [X]", "Seat Taken", or "Invalid Seat Number".
 
-  
+# Logic Plan (flowchart):
+
+<img width="1224" height="1285" alt="image" src="https://github.com/user-attachments/assets/f3c50cfd-39ef-444b-90c1-91bce9552bfd" />
+
