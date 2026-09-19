@@ -1,8 +1,10 @@
 # Project Title: Student Seating Arrangement System
 
-# Problem Statement: Explain why organizing seating manually is time consuming and confusing for students and teachers.
+# Problem Statement: 
+  Explain why organizing seating manually is time consuming and confusing for students and teachers.
 
-# Project Objectives: State what the system aims to solve (e.g., allow users to easily assign, view, update, swap, and search student seat assignments).
+# Project Objectives: 
+  State what the system aims to solve (e.g., allow users to easily assign, view, update, swap, and search student seat assignments).
 
 # Planned Features: 
   · Store student names in an array
