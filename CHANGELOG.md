@@ -14,3 +14,7 @@ This file lists all the updates made to our Student Seating Arrangement System p
   - Seat editing module: seat swapping and student removal.
   - Student search feature by name.
   - Seating layout display showing seat status ("Empty" or student name).
+
+---
+## Version v1.0.1 - September 20, 2026
+- Created and added PROPOSAL.md (Problem Statement, Objectives, Planned Features, Inputs/Outputs, and Flowchart).
