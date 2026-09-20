@@ -34,5 +34,6 @@
 <img width="1224" height="1285" alt="image" src="https://github.com/user-attachments/assets/f3c50cfd-39ef-444b-90c1-91bce9552bfd" />
 
 # Contributors: 
-
-  · Shaun Matthew P. Marmita
+Student 1: Marmita, Shaun Matthew P. - Made the Project Title upto Planned Outputs
+Student 2: Nervez, Dweezel Mae L. - Made the Laogic Plan(flowchart)
+Student 3: Zarzua, Cleona Zareen G. - Organized the PROPOSAL.md
