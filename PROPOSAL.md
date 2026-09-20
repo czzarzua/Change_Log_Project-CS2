@@ -35,5 +35,5 @@
 
 # Contributors: 
 Student 1: Marmita, Shaun Matthew P. - Made the Project Title upto Planned Outputs
-Student 2: Nervez, Dweezel Mae L. - Made the Laogic Plan(flowchart)
+Student 2: Nervez, Dweezel Mae L. - Made the Logic Plan(flowchart)
 Student 3: Zarzua, Cleona Zareen G. - Organized the PROPOSAL.md
