@@ -33,3 +33,6 @@
 
 <img width="1224" height="1285" alt="image" src="https://github.com/user-attachments/assets/f3c50cfd-39ef-444b-90c1-91bce9552bfd" />
 
+# Contributors: 
+
+  · Shaun Matthew P. Marmita
