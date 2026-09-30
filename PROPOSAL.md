@@ -1,10 +1,10 @@
 # Project Title: Student Seating Arrangement System
 
 # Problem Statement: 
-  Explain why organizing seating manually is time consuming and confusing for students and teachers.
-
+  Manual seating is a huge time-sink for teachers because juggling student needs, accommodations, and behavior rules on paper requires non-stop erasing and re-checking, while students get confused trying to figure out how   a flat, drawn map actually matches the real desks in the room.
+  
 # Project Objectives: 
-  State what the system aims to solve (e.g., allow users to easily assign, view, update, swap, and search student seat assignments).
+  A programming solution eliminates the time-consuming friction of manual seating by replacing paper grids with an automated, rule-based system that allows teachers to easily assign, view, update, swap, and search student   seat assignments in seconds. By using algorithms to instantly check for accommodations and student conflicts while rendering a clear visual layout, the system saves valuable teacher planning time and gives students an     intuitive map to find their seats without confusion.
 
 # Planned Features: 
   · Store student names in an array
