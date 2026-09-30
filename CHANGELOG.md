@@ -4,7 +4,7 @@ Standards of Modular Coding Design: Creating a Change Log for the First Quarter 
 This file lists all the updates made to our Student Seating Arrangement System project.
 
 ---
-## Version v1.0.0 - March 2026
+## Version v1.0.0 - August 28, 2026
 - Initial release of the Student Seating Arrangement System.
 - Key Features Implemented:
   - Main interactive console menu (Add, View, Edit, Search, Exit).
