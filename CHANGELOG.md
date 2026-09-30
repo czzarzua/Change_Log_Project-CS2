@@ -18,3 +18,8 @@ This file lists all the updates made to our Student Seating Arrangement System p
 ---
 ## Version v1.0.1 - September 20, 2026
 - Created and added PROPOSAL.md (Problem Statement, Objectives, Planned Features, Inputs/Outputs, and Flowchart).
+
+---
+## Version v1.0.2 - September 30, 2026
+- Corrected the date in Version v1.0.0 in the CHANGELOG.md
+- Corrected the Planned Objectives
