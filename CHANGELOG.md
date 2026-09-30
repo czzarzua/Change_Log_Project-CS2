@@ -22,4 +22,4 @@ This file lists all the updates made to our Student Seating Arrangement System p
 ---
 ## Version v1.0.2 - September 30, 2026
 - Corrected the date in Version v1.0.0 in the CHANGELOG.md
-- Corrected the Planned Objectives
+- Corrected the Problem Statement and Project Objectives.
