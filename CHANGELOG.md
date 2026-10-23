@@ -5,7 +5,7 @@ This file lists all the updates made to our Student Seating Arrangement System p
 
 ---
 ## Version v1.0.0 - August 28, 2026
-- Initial release of the Student Seating Arrangement System.
+- Initial conceptualization and planning of the Student Seating Arrangement System.
 - Core Design Concepts & Planned Features:
   - Main interactive console menu (Add, View, Edit, Search, Exit).
   - Array storage to track student names and assigned seats (1–30).
