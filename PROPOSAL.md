@@ -1,7 +1,9 @@
 # Project Title: Student Seating Arrangement System
 
 ## Problem Statement: 
-  Manual seating is a huge time-sink for teachers because juggling student needs, accommodations, and behavior rules on paper requires non-stop erasing and re-checking, while students get confused trying to figure out how   a flat, drawn map actually matches the real desks in the room.
+  Manual seating on paper takes a lot of time to erase and recheck, and students can get confused matching a drawn map to real desks. When we asked 10 teachers, **8 out of 10** said manual seating is time-consuming.
+
+  Our system will use rule based checks to only allow seat numbers from 1 to 30, block assigning a seat that is already taken, and catch invalid inputs before saving any changes. Apps like **ClassDojo** and **Mega Seating Plan** already exist, but they often need internet, accounts, or paid plans. Ours will be a simple, offline program made for quick seating management in a 30-seat class.
   
 ## Project Objectives: 
 
