@@ -42,7 +42,7 @@ To achieve the general objective, the project aims to:
 
 ## Logic Plan (flowchart):
 
-<img width="1224" height="1285" alt="image" src="https://github.com/user-attachments/assets/f3c50cfd-39ef-444b-90c1-91bce9552bfd" />
+<img width="1941" height="3647" alt="CS2  drawio" src="https://github.com/user-attachments/assets/7047c0be-d850-4911-9ad3-5772ad1e7518" />
 
 ## Contributors: 
 - Student 1: Marmita, Shaun Matthew P. - Made the Project Title upto Planned Outputs
