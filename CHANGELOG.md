@@ -23,3 +23,9 @@ This file lists all the updates made to our Student Seating Arrangement System p
 ## Version v1.0.2 - September 30, 2026
 - Corrected the date in Version v1.0.0 in the CHANGELOG.md
 - Corrected the Problem Statement and Project Objectives.
+
+---
+## Version v1.0.3 - November 25, 2026
+- Added front row priority seating rule (Seats 1–6 for priority/accommodation students and Seats 7–30 for standard students) with rule error handling in the Add Student flow.
+- Created and exported the revised seating arrangement flowchart as an image and embedded it in PROPOSAL.md.
+- Updated README.md to reflect the priority seating rule, updated inputs/outputs, and minor wording fixes.
