@@ -18,24 +18,20 @@ To achieve the general objective, the project aims to:
 4. **Clear Layout Display:** Render an organized console seating layout showing all 30 seats alongside clear status and confirmation messages.
 
 ## Planned Features: 
-1. Store Student Names – Stores the names of students in an array for easy access and management.
+1. Store Student Names – Stores student names in an array for easy access and management.
 
-2. Assign Students to Seats – Allows the user to assign students to specific seating positions in the classroom.
+2. Assign Students to Seats – Allows the user to assign students to specific classroom seating positions.
 
-3. Check Seat Availability – Determines whether a selected seat is occupied or vacant before assigning a student.
+3. Check Seat Availability – Checks whether a selected seat is occupied or vacant before assignment.
 
-4. Edit Seating Assignments – Allows the user to update or change a student's current seating position.
+4. Remove Students from Seats – Removes a student's seating assignment, making the seat available again.
 
-5. Swap Student Seats – Enables the user to exchange the seating positions of two students.
+5. Search for Student Seats – Locates and displays the seat number assigned to a specific student.
 
-6. Remove Students from Seats – Allows the user to remove a student from an assigned seat, making it available for another student.
+6. Display Seating Arrangement – Shows the complete seating layout, indicating occupied and vacant seats.
 
-7. Search for Student Seats – Finds and displays the assigned seating position of a specific student.
-
-8. Display Seating Arrangement – Shows the complete classroom seating arrangement, including occupied and vacant seats.
-
-9. Display Status Messages – Provides feedback and notifications to inform the user about successful operations, errors, and other system updates.
-
+7. Display Status Messages – Notifies the user of successful operations, invalid inputs, and errors.
+   
 ## Planned Inputs:
 1. Menu Choices – Accepts numerical inputs (1–5) from the user to select a specific operation from the main menu.
 
