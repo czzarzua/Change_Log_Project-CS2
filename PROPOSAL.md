@@ -7,15 +7,23 @@
   
 ## Project Objectives: 
 
-### General Objective:
-  The main goal of this project is to develop a simple Python-based Student Seating Arrangement System that automates classroom seat assignments for up to 30 seats and displays a clear seating layout for teachers and students.
+### General Objective
+The main goal of this project is to develop a simple, Python-based Student Seating Arrangement System that automates classroom seat assignments for up to 30 students and displays an organized seating layout for teachers and students.
 
 ### Specific Objectives
 To achieve the general objective, the project aims to:
-1. **Data Storage:** Store and manage student names across 30 seat positions using a structured Python list/array.
-2. **Core Seat Operations:** Implement menu-driven functions to assign, view, edit/update, swap, remove, and search student seat assignments.
-3. **Input & Occupancy Validation:** Verify seat availability and validate user inputs (such as valid seat ranges from 1–30 and existing student records) to prevent errors.
-4. **Clear Layout Display:** Render an organized console seating layout showing all 30 seats alongside clear status and confirmation messages.
+
+1. Data Storage: Store and manage student names in a structured Python list, with each position representing a specific seat.
+
+2. Seat Assignment and Removal: Allow users to assign students to available seats and remove existing assignments when necessary.
+
+3. Student Search: Locate and display the assigned seat number of a specific student.
+
+4. Input and Occupancy Validation: Validate user inputs, restrict seat numbers to 1–30, and prevent duplicate or invalid seating assignments.
+
+5. Seating Layout Display: Display an organized console-based seating arrangement showing all 30 seats, including occupied and vacant positions.
+
+6. Status Notifications: Provide clear messages indicating successful operations, invalid inputs, and unavailable seats.
 
 ## Planned Features: 
 1. Store Student Names – Stores student names in an array for easy access and management.
