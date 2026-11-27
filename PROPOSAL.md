@@ -18,21 +18,32 @@ To achieve the general objective, the project aims to:
 4. **Clear Layout Display:** Render an organized console seating layout showing all 30 seats alongside clear status and confirmation messages.
 
 ## Planned Features: 
-  · Store student names in an array
-  · Assign students to specific seat positions
-  · Check if a seat is occupied
-  · Edit or update seating assignments 
-  · Swap seats between two students
-  · Remove students from seats
-  · Search for a student's assigned seat
-  · Display full seating arrangements
-  · Display status messages (e.g., "Seat occupied", "Error", confirmation messages)
+1. Store Student Names – Stores the names of students in an array for easy access and management.
+
+2. Assign Students to Seats – Allows the user to assign students to specific seating positions in the classroom.
+
+3. Check Seat Availability – Determines whether a selected seat is occupied or vacant before assigning a student.
+
+4. Edit Seating Assignments – Allows the user to update or change a student's current seating position.
+
+5. Swap Student Seats – Enables the user to exchange the seating positions of two students.
+
+6. Remove Students from Seats – Allows the user to remove a student from an assigned seat, making it available for another student.
+
+7. Search for Student Seats – Finds and displays the assigned seating position of a specific student.
+
+8. Display Seating Arrangement – Shows the complete classroom seating arrangement, including occupied and vacant seats.
+
+9. Display Status Messages – Provides feedback and notifications to inform the user about successful operations, errors, and other system updates.
 
 ## Planned Inputs:
-  · Menu Choices: Numbers entered by the user to select options (1–5) from the main menu.
-  · Student Names: Text entries for student names to assign, swap, or search for.
-  · Seat Numbers: Integer numbers (ranging from 1 to 30) chosen for seating assignments, edits, or removals.
-  · Swap Inputs: Two seat numbers entered sequentially to exchange student positions.
+1. Menu Choices – Accepts numerical inputs (1–5) from the user to select a specific operation from the main menu.
+
+2. Student Names – Accepts text inputs containing student names for seating assignments, seat searches, and other student-related operations.
+
+3. Seat Numbers – Accepts integer inputs ranging from 1 to 30 to identify specific seating positions for assignments, edits, or removals.
+
+4. Swap Inputs – Accepts two seat numbers entered sequentially by the user to identify the seats whose assigned students will be exchanged.
 
 ## Planned Outputs:
   · Main Menu Display: Interactive text interface showing available options.
