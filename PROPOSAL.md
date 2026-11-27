@@ -1,4 +1,4 @@
-# Project Title: Student Seating Arrangement System
+# Project Title: SeatMate
 
 ## Problem Statement: 
   Manual seating on paper takes a lot of time to erase and recheck, and students can get confused matching a drawn map to real desks. When we asked 10 teachers, **8 out of 10** said manual seating is time-consuming.
